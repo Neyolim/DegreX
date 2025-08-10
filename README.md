@@ -48,10 +48,5 @@ These are concrete patterns I practiced and can reuse across future projects.
 ## Final notes (from me)
 
 * This repo demonstrates practical, production-minded React patterns learned through guided practice: component encapsulation, hook-driven logic, and lightweight third-party integrations.
-* If you want, I can:
-
-  * produce a short `CONTRIBUTING.md`,
-  * add a sample `.env.example` and secure handling notes, or
-  * convert the ContactForm to use `react-hook-form` with example validation — tell me which and I’ll generate it.
 
 ---
