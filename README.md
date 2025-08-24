@@ -23,7 +23,7 @@ I built a responsive, accessible Single Page Application (SPA) using **React** b
 
 * React (functional components + hooks)
 * JavaScript (ES6+)
-* CSS (component-scoped files; easy to swap for CSS Modules / Tailwind)
+* CSS (component-scoped files; easy to swap for CSS Modules )
 * react-scroll (smooth in-page navigation)
 * A custom Carousel (implemented/adapted during practice)
 * Web3Forms to receive contact form emails without a backend
@@ -45,7 +45,7 @@ These are concrete patterns I practiced and can reuse across future projects.
 
 ---
 
-## Final notes (from me)
+## Final notes 
 
 * This repo demonstrates practical, production-minded React patterns learned through guided practice: component encapsulation, hook-driven logic, and lightweight third-party integrations.
 
