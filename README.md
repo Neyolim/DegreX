@@ -30,7 +30,7 @@ I built a responsive, accessible Single Page Application (SPA) using **React** b
 
 ---
 
-# What I learned (from scratch → advanced, in my words)
+# What I learned 
 
 I followed a practical tutorial and used the project as a sandbox to learn how to scale a frontend from small to medium size:
 
